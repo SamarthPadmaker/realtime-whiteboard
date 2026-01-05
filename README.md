@@ -27,5 +27,6 @@ http://localhost:3000
 DONE!! U can open this link in two browser tabs to see realtime drawing.
 
 ## Screenshot
-![Realtime Whiteboard](screenshots/Screenshot tabs.png)
+![Realtime Whiteboard](screenshots/screenshot.png)
+
 
