@@ -3,12 +3,12 @@ A simple collaborative realtime drawing whiteboard built using
 Node.js, Express, and Socket.io.
 Multiple users can draw on the same canvas and see updates instantly.
 
-## Features
+## Features  
 
-Draw on a shared board
-Instant realtime updates (Socket.io)
-Multi-user support
-Simple & clean UI
+- Draw on a shared board  
+- Instant realtime updates (Socket.io)  
+- Multi-user support  
+- Simple & clean UI  
 
 
 ## HOW TO RUN THIS PROJECT
